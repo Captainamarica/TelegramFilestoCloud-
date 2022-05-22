@@ -1,7 +1,7 @@
 {
-  "name": "Telegram MixDrop Bot",
+  "name": "Night Vission Cloud Bot",
   "description": "This bot uploads telegram files to MixDrop.co,File.io.",
-  "repository": "https://github.com/AbhijithNT/Telegram-MixDrop-Bot/",
+  "repository": "https://github.com/Captainamarica/TelegramFilestoCloud-",
   "keywords": ["telegram", "pyrogram", "telegram bot"],
   "env": {
     "ENV": {
